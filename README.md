@@ -1,1 +1,1 @@
-# Teck-A-Thon
+# Tech-A-Thon
